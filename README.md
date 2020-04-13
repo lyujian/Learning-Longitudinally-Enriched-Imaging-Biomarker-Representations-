@@ -1,4 +1,4 @@
-# Learning-Longitudinally-Enriched-Imaging-Biomarker-Representations-
+# Learning Longitudinally Enriched Imaging Biomarker Representations
 
 ## Abstract
 A critical challenge to use machine learning to perform longitudinal studies of Alzheimer’s Disease (AD) is the missing medical records during the course of AD development. 
