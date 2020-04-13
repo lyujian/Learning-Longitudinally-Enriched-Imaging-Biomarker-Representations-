@@ -1,5 +1,6 @@
 # Learning-Longitudinally-Enriched-Imaging-Biomarker-Representations-
 
+## Abstract
 A critical challenge to use machine learning to perform longitudinal studies of Alzheimer’s Disease (AD) is the missing medical records during the course of AD development. 
 To tackle this problem, in this paper we propose a novel formulation to learn an enriched biomarker representation that can simultaneously capture the information conveyed by both baseline neuroimaging records and that by progressive variations of varied counts of available follow-up records over time. 
 While the numbers of the brain scans of the participants vary, the learned biomarker representations are of a fixed length, which enable us to use traditional learning models to study AD developments. 
